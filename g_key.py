@@ -1,1 +1,1 @@
-g_key = "AIzaSyA8iKNMunGCYnMrwOyjFgGymvDN0wFTvj0"
+g_key = "X"
