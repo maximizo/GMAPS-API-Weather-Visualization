@@ -64,7 +64,13 @@ In this project, I will visualize weather data for 500+ cities with varying dist
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the hotel name*, city, and country.
 
-## Output: 
+## Outputs: 
 
-  ![hotel map](Images/hotel_map.png)
+### Heat Map
+
+  ![heat_map](images/heat_map.png)
+
+### Hotel Map
+
+  ![hotel_map](images/hotel_map.png)
 
