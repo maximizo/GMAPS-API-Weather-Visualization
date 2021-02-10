@@ -1,6 +1,6 @@
-## Project Description
+## Weather & Location Visualization with Google Maps API
 
-In this project, I will visualize weather data for 500+ cities with varying distances from the equator. I will then work with this data to set inputs for my ideal vacation weather and determine a location to visit.
+I will visualize weather data for 500+ cities with varying distances from the equator. I will then work with this data to set inputs for my ideal vacation weather and determine a location to visit.
 
 ### Features & Libraries
 
